@@ -1,0 +1,16 @@
+{
+  "Description": "使用此模板开发您自己的插件",
+  "Name": "Stream Deck 插件模板",
+  "Category": "模板",
+  "com.elgato.template.action": {
+    "Name": "操作",
+    "Tooltip": "这是该插件中的唯一操作"
+  },
+  "Localization": {
+    "More info": "更多信息",
+    "Message": "消息",
+    "Click Me": "点我",
+    "Button": "按钮",
+    "INFORMATION": "信息"
+  }
+}
